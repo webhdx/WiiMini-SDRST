@@ -1,9 +1,13 @@
+![WiiMini-SDRST installed in the console](assets/wiimini-sdrst-installed.jpg)
+
 # WiiMini-SDRST
 WiiMini-SDRST is a custom made mod that adds back microSD card and reset button to Wii Mini console.
 
 Wii Mini is a great little console but it was seriously crippled by Nintendo to reduce manufacturing costs. They removed SD card and reset button from the console which made it less desirable for homebrew use. My kit helps you add these features back! It's very easy to install thanks to a nice quick solder board.
 
-![WiiMini-SDRST installed in the console](assets/wiimini-sdrst-installed.jpg)
+Join my Discord Server for support:
+
+[![](https://dcbadge.vercel.app/api/server/USmzJteq)](https://discord.gg/USmzJteq)
 
 ## 💪 Features
 * supports microSD cards
@@ -30,10 +34,3 @@ Please head over to [the wiki](https://github.com/webhdx/WiiMini-SDRST/wiki) for
   * button extension
   * 2 drill guides
 * flex cable
-
-## 🧑‍⚖️ Legal stuff 
-WiiMini-SDRST is licensed under a
-Creative Commons Attribution-NonCommercial 4.0 International License.
-
-You should have received a copy of the license along with this
-work. If not, see <http://creativecommons.org/licenses/by-nc/4.0/>.
