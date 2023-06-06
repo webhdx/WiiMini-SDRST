@@ -7,7 +7,7 @@ Wii Mini is a great little console but it was seriously crippled by Nintendo to 
 
 Join my Discord Server for support:
 
-[![](https://dcbadge.vercel.app/api/server/USmzJteq)](https://discord.gg/USmzJteq)
+[![](https://dcbadge.vercel.app/api/server/T6JKKkRx)](https://discord.gg/T6JKKkRx)
 
 ## 💪 Features
 * supports microSD cards
