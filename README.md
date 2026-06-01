@@ -17,7 +17,7 @@ Join my Discord Server for support:
 * compatibility with many homebrew apps not supporting USB storage
 
 ## 💵 Where I can buy one?
-Head over to [my Tindie store](https://www.tindie.com/products/27355/) to buy it. By purchasing WiiMini-SDRST you sponsor all my future projects. 🙏
+Head over to [my store](https://store.webhdx.dev/products/wii-mini-sdrst-kit) to buy it. By purchasing WiiMini-SDRST you sponsor all my future projects. 🙏
 
 ![Full kit](assets/full-kit.jpg)
 
